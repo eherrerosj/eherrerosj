@@ -1,3 +1,4 @@
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDXFE0Y0HF"></script>
 <script>
@@ -7,7 +8,8 @@
 
   gtag('config', 'G-BDXFE0Y0HF');
 </script>
-
+</head>
+<body>
 <p align='center'> 
   <a href="twitter.com/eherrerosj"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/eherrerosj/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -22,3 +24,4 @@
 - 🌱 I’m currently learning Solidity  
 - 🏃🏻‍♂️ I’m looking to collaborate on web3 data/ML, smart contracts, NFTs  
 - 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
+</body>
