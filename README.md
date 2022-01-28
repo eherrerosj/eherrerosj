@@ -1,14 +1,3 @@
-<head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BDXFE0Y0HF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-BDXFE0Y0HF');
-</script>
-</head>
 <body>
 <p align='center'> 
   <a href="twitter.com/eherrerosj"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
