@@ -6,6 +6,8 @@
 <div align="center">
 <h3> 👀 Enrique Herreros | ⌨️ Software Engineer | 🌏 Toronto </h3> 
 </div>
+
+### About me 
 - ⚡️ I’m currently working on building web3 data products at Electric Capital 
 - 🌱 I’m currently learning Solidity  
 - 🏃🏻‍♂️ I’m looking to collaborate on web3 data/ML, smart contracts, NFTs  
