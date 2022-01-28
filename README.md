@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align='center'> 
+  <a href="twitter.com/eherrerosj"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eherrerosj/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@trinwin"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
-<!--
-**eherrerosj/eherrerosj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3> 👀 Enrique Herreros | 👩🏻‍💻 Software Engineer | 🌏 Toronto </h3> 
+</div>
+- ⚡️ I’m currently working on building web3 data products at Electric Capital 
+- 🌱 I’m currently learning Solidity
+- 🏃🏻‍♂️ I’m looking to collaborate on web3 data/ML, smart contracts, NFTs
+- 🤠 Fun fact: I love kitesurfing and programming late at night
