@@ -14,3 +14,6 @@
 - 🏃🏻‍♂️ I’m looking to collaborate on web3 data/ML, smart contracts, NFTs  
 - 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
 </body>
+
+
+https://visitor-badge.laobi.icu/badge?page_id=eherrerosj.visitor-badge
