@@ -15,5 +15,4 @@
 - 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
 </body>
 
-
-https://visitor-badge.laobi.icu/badge?page_id=eherrerosj.visitor-badge
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eherrerosj.visitor-badge)
