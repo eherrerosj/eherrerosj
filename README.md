@@ -9,9 +9,9 @@
 </div>
 
 ### About me 
-- ⚡️ I’m currently working on building web3 data products at Electric Capital 
-- 🌱 I’m currently learning Solidity  
-- 🏃🏻‍♂️ I’m looking to collaborate on web3 data/ML, smart contracts, NFTs  
+- ⚡️ Building web3 data products at [Electric Capital](https://www.electriccapital.com/team)  
+- 🌱 Learning Solidity and soon would love to start with Rust  
+- 🏃🏻‍♂️ Happy to collaborate on web3 data/ML, smart contracts, NFTs side projects  
 - 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
 </body>
 
