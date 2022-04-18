@@ -10,8 +10,8 @@
 
 ### About me 
 - ⚡️ Building web3 data products at [Electric Capital](https://www.electriccapital.com/team)  
-- 🌱 Learning Solidity and soon would love to start with Rust  
-- 🏃🏻‍♂️ Happy to collaborate on web3 data/ML, smart contracts, NFTs side projects  
+- 🌱 Learning Solidity
+- 🏃🏻‍♂️ Ask me about web3 data/ML, smart contracts, NFT stuff
 - 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
 </body>
 
