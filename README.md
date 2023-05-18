@@ -5,14 +5,13 @@
   <a href="https://medium.com/@eherreros"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👀 Enrique Herreros | ⌨️ Software Engineer | 🌏 Toronto </h3> 
+<h3> 👀 Enrique Herreros | ⌨️ Software Engineer | 🌏 Madrid </h3> 
 </div>
 
 ### About me 
 - ⚡️ Building web3 data products at [Electric Capital](https://www.electriccapital.com/team)  
-- 🌱 Learning Solidity
-- 🏃🏻‍♂️ Ask me about web3 data/ML, smart contracts, NFT stuff
-- 🤠 Fun facts: originally from 🇪🇸, I love kitesurfing and programming late at night  
+- 🌱 Interested in crypto, AI and data stuff
+- 🤠 Love kitesurfing and programming late at night  
 </body>
 
 
