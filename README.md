@@ -9,9 +9,9 @@
 </div>
 
 ### About me 
-- ⚡️ Building web3 data products at [Electric Capital](https://www.electriccapital.com/team)  
-- 🌱 Interested in crypto, AI and data stuff
-- 🤠 Love kitesurfing and programming late at night  
+- ⚡️ Building public goods in crypto at [Electric Capital](https://www.electriccapital.com/team)  
+- 🌱 Interested in crypto, AI, data and SaaS
+- 🤠 Love mountain-biking, kitesurfing and building late at night  
 </body>
 
 
