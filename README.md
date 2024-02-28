@@ -9,9 +9,9 @@
 </div>
 
 ### About me 
-- ⚡️ Building public goods in crypto at [Electric Capital](https://www.electriccapital.com/team)  
-- 🌱 Interested in crypto, AI, data and SaaS
-- 🤠 Love mountain-biking, kitesurfing and building late at night  
+- ⚡️ AI/LLMs -> Teaching new things to [LuzIA](https://luzia.com/)
+- 🌱 Interested in AI, data, SaaS, crypto
+- 🤠 Love mountain-biking, padel, kitesurfing and building software late at night  
 </body>
 
 
