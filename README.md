@@ -9,8 +9,8 @@
 </div>
 
 ### About me 
-- ⚡️ AI/LLMs -> Teaching new things to [LuzIA](https://luzia.com/)
-- 🌱 Interested in AI, data, SaaS, crypto
+- ⚡️ AI: LLMs, ASR, TTS -> Building something new
+- 🌱 Interested in AI, SaaS, startups
 - 🤠 Love mountain-biking, padel, kitesurfing and building software late at night  
 </body>
 
