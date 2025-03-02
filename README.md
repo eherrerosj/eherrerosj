@@ -5,13 +5,13 @@
   <a href="https://medium.com/@eherreros"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👀 Enrique Herreros | ⌨️ Software Engineer | 🌏 Madrid </h3> 
+<h3> Enrique Herreros | Co-founder | 🇪🇸 Madrid </h3> 
 </div>
 
 ### About me 
-- ⚡️ AI: LLMs, ASR, TTS -> Building something new
-- 🌱 Interested in AI, SaaS, startups
-- 🤠 Love mountain-biking, padel, kitesurfing and building software late at night  
+- ⚡️ Building an AI agent creation platform
+- 🌱 Interested in AI, tech startups and the future of humanity
+- 🤠 Love building products, padel, mountain-biking and kitesurfing 
 </body>
 
 
