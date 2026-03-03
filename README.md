@@ -1,17 +1,37 @@
-<body>
-<p align='center'> 
-  <a href="https://twitter.com/eherrerosj"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/eherrerosj/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+```text
+                          ·  ˚     ✦       ˚    ·
+                     ✦        ·        ˚           ✦
+                ·        ˚       ·    ✦     ˚         ·
+           ╔═══════════════════════════════════════════════╗
+           ║     N E O  ·  M A D R I D  ' 3 9            ║
+           ╚═══════════════════════════════════════════════╝
+                          [VOICE·AI]
+            ┌──┐                              ┌──┐
+         ┌──┤  │ ┌──┐                  ┌──┐ ┌─┤  ├──┐
+      ┌──┤  │  │ │H │ ┌──┐      ┌──┐  │P │ │ │  │  │
+      │  │  │  │ │E │ │▓▓│      │▓▓│  │R │ │ │  │  │
+      │  │  │  │ │A │ │▓▓│  /\  │▓▓│  │O │ │ │  │  │
+      │  │  │  │ │L │ │▓▓│ /  \ │▓▓│  │M │ │ │  │  │
+      │▓▓│  │▓▓│ │T │ │▓▓│ [\\/] │▓▓│  │P │ │▓▓│  │▓▓│
+      │▓▓│  │▓▓│ │H │ │▓▓│  /\  │▓▓│  │T │ │▓▓│  │▓▓│
+      │▓▓│  │▓▓│ │+ │ │▓▓│ /  \ │▓▓│  │  │ │▓▓│  │▓▓│
+      ╧══╧══╧══╧═╧══╧═╧══╧══════╧══╧══╧══╧═╧══╧══╧══╧
+      ░▒▓█ 13Y·ML/AI ░▒▓████▓▒░ STARTUPS ░▒▓████▓▒░
+      ▒░▒░ PADEL ▒░▒░▒░▒░▒░▒░▒░▒░ SWIM ░▒░▒░▒░▒░▒░
+```
 
-<div align="center">
-<h3> Enrique Herreros | Co-founder @ Phonema </h3> 
-</div>
+> `sys.decode(enrique)`
 
-### About me 
-- ⚡️ Building the first AI-native Contact Center platform
-- 🌱 Interested in AI, tech startups and the future of humanity
-- 🤠 Love building products, padel, mountain-biking and kitesurfing 
-</body>
+- **13 years** deep in ML & AI — from classical models to LLM agents
+- **Voice AI** architect @ [Quadrivia](https://quadrivia.com) — building autonomous healthcare agents
+- **HealthTech** obsession — AI that actually helps patients and clinicians
+- **Prompt optimization** craft — squeezing every drop of intelligence from LLMs
+- **Serial startup builder** — if it doesn't exist yet, let's build it
 
+---
 
-<img style="float: right;" src="https://visitor-badge.laobi.icu/badge?page_id=eherrerosj.visitor-badge">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eherrerosj/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/eherrerosj)
+[![Web](https://img.shields.io/badge/bull--labs.com-FF6F00?style=flat&logo=googlechrome&logoColor=white)](https://bull-labs.com)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eherrerosj.visitor-badge">
