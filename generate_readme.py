@@ -1,75 +1,48 @@
 #!/usr/bin/env python3
-"""3D ocean: art-directed wave rendering with high contrast."""
+"""Ocean waves using the classic rolling ASCII wave pattern with perspective."""
 
-import math
 import random
 import unicodedata
 
 W = 72
 H = 20
 canvas = [[' '] * W for _ in range(H)]
-random.seed(71)
+random.seed(42)
 
-HORIZON = 4
-FOV_X = 1.8
-
-
-# ── Render ocean ─────────────────────────────────────────────────
-for sy in range(HORIZON + 1, H):
-    t = (sy - HORIZON) / (H - 1 - HORIZON)
-
-    # Phase mapping: ~5 wave crests, compressed near horizon
-    row_phase = (1 - t) ** 0.55 * 10 * math.pi
-
-    dom_val = math.sin(row_phase)
-
-    # Distance for cross-wave world coords
-    dist = 2.5 / (t + 0.01)
-
-    for sx in range(W):
-        world_x = (sx - W / 2.0) * dist * FOV_X / W
-
-        # Cross-wave texture (horizontal variation within each band)
-        cross = 0.0
-        cross += 0.20 * math.sin(0.3 * world_x + row_phase * 0.35 + 1.0)
-        cross += 0.15 * math.sin(0.55 * world_x - row_phase * 0.25 + 2.5)
-        cross += 0.10 * math.sin(0.9 * world_x + row_phase * 0.15 + 4.0)
-        cross += 0.06 * math.sin(1.4 * world_x - row_phase * 0.1 + 0.5)
-
-        h = dom_val + cross
-
-        # Height → character: high contrast between crests and troughs
-        r = random.random()
-        if h > 0.65:
-            ch = '~'                                        # solid crest
-        elif h > 0.30:
-            ch = '~' if r > 0.12 else ':'                   # crest edge
-        elif h > 0.0:
-            ch = ':' if r > 0.10 else '~'                   # upper slope
-        elif h > -0.30:
-            ch = ';' if r > 0.08 else ':'                   # lower slope
-        elif h > -0.60:
-            ch = '.' if r > 0.15 else (' ' if r > 0.07 else ';')
-        else:
-            ch = '.' if r > 0.35 else (' ' if r > 0.10 else ';')
-
-        # Fog near horizon: override distant pixels
-        fog = max(0.0, (dist - 35) / 200)
-        if fog > 0 and random.random() < fog:
-            ch = ';' if random.random() > 0.3 else ':'
-
-        canvas[sy][sx] = ch
-
-# ── Horizon ──────────────────────────────────────────────────────
-for sx in range(W):
-    canvas[HORIZON][sx] = '~'
+SKY_ROWS = 5
+# Classic ASCII wave cycle (16 chars: trough _ through crest ^ and back)
+WAVE = ",.-=~'`^`'~=-.,_"
+WL = len(WAVE)
 
 # ── Stars ────────────────────────────────────────────────────────
 for _ in range(10):
     sx = random.randint(0, W - 1)
-    sy = random.randint(0, HORIZON - 2)
+    sy = random.randint(0, SKY_ROWS - 2)
     if canvas[sy][sx] == ' ':
         canvas[sy][sx] = random.choice(['.', '·', '✦', '˚', '*'])
+
+# ── Ocean with perspective ───────────────────────────────────────
+ocean_rows = H - SKY_ROWS
+for row_idx in range(SKY_ROWS, H):
+    ri = row_idx - SKY_ROWS
+    t = ri / max(1, ocean_rows - 1)  # 0 = horizon, 1 = foreground
+
+    # Perspective: wave period grows from ~10 cols (horizon) to ~30 cols (near)
+    scale = 0.6 + 1.6 * t
+
+    # Gentle diagonal flow (waves approaching viewer)
+    offset = ri * 0.6
+
+    for col in range(W):
+        phase = (col / scale + offset) % WL
+        ch = WAVE[int(phase) % WL]
+        canvas[row_idx][col] = ch
+
+    # Prevent 3+ consecutive backticks (breaks markdown code fences)
+    row_str = canvas[row_idx]
+    for col in range(2, W):
+        if row_str[col] == '`' and row_str[col - 1] == '`' and row_str[col - 2] == '`':
+            row_str[col] = "'"
 
 # ── Output ───────────────────────────────────────────────────────
 art = [''.join(row) for row in canvas]
