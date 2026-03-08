@@ -64,7 +64,7 @@ readme += """
 - **Head of AI** @ [Quadrivia](https://quadrivia.ai)
 - **13 years** in ML & AI
 - **Voice AI** for healthcare
-- **Prompt optimization**
+- **GenAI + RL + Multiagent architectures**
 - **Serial startup builder**
 
 ---
